@@ -18,7 +18,7 @@ function App() {
     <br />
     <div>
       <h2>Resultado:</h2>
-      <h1 id='resultado'>50</h1>
+      <h1 id='resultado'>0</h1>
     </div>
     </div>
   )
